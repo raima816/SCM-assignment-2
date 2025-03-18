@@ -1,34 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample Webpage</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            color: #3498db;
-        }
-        .btn {
-            background-color: #2ecc71;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            font-size: 18px;
-        }
-        .btn:hover {
-            background-color: #27ae60;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to My Project 🚀</h1>
-    <button class="btn">Click Me!</button>
-</body>
-</html>
+# 📌 Attendance Tracker
+A simple web application for tracking attendance using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Easy attendance logging
+- Responsive design
+- Clean and modern UI
+
+## 📂 Technologies Used
+- *HTML*
+- *CSS*
+- *JavaScript*
+
+## 📖 Usage
+1. Clone the repository.
+2. Open index.html in your browser.
+
+## 📌 Contributing
+Feel free to contribute by creating a pull request!
